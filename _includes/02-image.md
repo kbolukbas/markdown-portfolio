@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Jet Kune Do](https://kbolukbas.github.io/markdown-portfolio/jetkunedo.png)
