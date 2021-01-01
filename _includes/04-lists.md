@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+#### Path to My Return to Development
+Everyday
+- Have a plan
+- Code
+- Learn something new
